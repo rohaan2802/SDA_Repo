@@ -1,0 +1,21 @@
+Your project proposal must not exceed two pages.
+Note: We have attached the existing FYP repository link for your reference.
+
+Important Instructions 
+Ensure there are no duplicate projects within the same section or across sections. For this purpose, we have attached an Excel sheet containing all sections. You must share your project title there on a first-come, first-served basis.
+Cross-section groups are not allowed. Selecting your own team members is a core objective of this course project.
+Your proposal must include the following six sections only (do not add any extra headings such as those in the sample you submitted in Deliverable#1).
+                        1. Project Overview
+                        2. Motivation
+                        3. Objectives
+                        4. Expected Outcomes
+                        5. Project Scope
+                        6. Tools and Technologies
+Frontend: Java and Java Swing/JavaFX for GUI
+Backend: SQL/Oracle
+Existing projects reference: https://drive.google.com/drive/folders/1ifSPYPddjRTHBcXB-KUOLULjnNriNhZQ
+Excel Sheet: https://docs.google.com/spreadsheets/d/1HrFqYSSSM_Ea12_jYCdaj4rBB7vDfVnNx6ARPqHrHeI/edit?usp=sharing 
+Submission Guidelines
+Only one submission per group is required. (Empty submissions will not be accepted.)
+File Naming Convention: GM1RollNum_GM2RollNum_GM3RollNum_SectionName.pdf (where GM refers to a Group Member).
+Note: If you do not follow the naming convention, marks will be deducted.

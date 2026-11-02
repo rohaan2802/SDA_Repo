@@ -1,0 +1,23 @@
+Part one:
+Draw a Use Case Diagram of your complete project (20 marks)
+   a. Highlight the system boundary (overall scope of the system).
+   b. Clearly identify the use cases (functional requirements/core user goals) of the system.
+   c. Clearly specify the actors involved in the system.
+
+Note: Draw a Use Case Diagram in any modeling tool and mention the names of all the group members in the corner of the diagram.
+
+Part two:
+Write all the identified use cases in Fully Dressed Format (120 marks), including the following components:
+   a. Use case name
+   b. Scope (the system under design)
+   c. Level
+   d. Primary actor
+   e. Stakeholders and their interests
+   f. Preconditions
+   g. Postconditions
+   h. Main success scenario
+   i. Extensions
+
+Each group must define 12 use cases. You cannot have more than two "Manage" use cases when resolving issues of granularity.
+
+Note: A template and an example of an extended use case are provided in the lecture slides.

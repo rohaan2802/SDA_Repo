@@ -1,0 +1,12 @@
+Think of your project group as a newly established company consisting of three members. You are required to submit a PDF document that includes the following details:
+
+1. Team Members: List the team members along with their names, roll numbers, and roles. (Team Manager, Analyst, Designer, Developer, QA Manager)
+2. Company Information:
+Provide the following:
+Company Name
+Company Logo
+Submission Guidelines:
+Only one submission per group is required.
+Cross-section groups are not allowed.
+File Naming Convention: Use the format: GroupName_SectionName.pdf where GroupName is your chosen company name.
+Note: If you do not follow the naming convention, marks will be deducted.

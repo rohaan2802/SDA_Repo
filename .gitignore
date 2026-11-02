@@ -1,0 +1,25 @@
+# Java build output (recreated on build)
+*.class
+bin/
+out/
+target/
+build/
+
+# IntelliJ IDEA user state
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/shelf/
+
+# Visual Studio / IDE files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Office lock files
+~$*
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
